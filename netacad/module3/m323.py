@@ -23,15 +23,9 @@
 # # Print results.
 # print("Odd numbers count:", odd_numbers)
 # print("Even numbers count:", even_numbers)
-
-# counter = 5
-# while counter != 0:
-#     print("Inside the loop.", counter)
-#     counter -= 1
-# print("Outside the loop.", counter)
-
+ 
 #  counter = 5
-# while counter:
+# while counter != 0:
 #     print("Inside the loop.", counter)
 #     counter -= 1
 # print("Outside the loop.", counter)

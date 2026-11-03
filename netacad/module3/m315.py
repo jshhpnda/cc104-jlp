@@ -1,1 +1,1 @@
-answer = number_of_lions >= number_of_lionesses
+# answer = number_of_lions >= number_of_lionesses
